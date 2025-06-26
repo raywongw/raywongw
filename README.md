@@ -1,4 +1,4 @@
 ### About me
 
-- Computer Engineering Year 4 boi
+- Human
 - Mainly uses Python and Java, knows C/C++, MySQL and VBA
